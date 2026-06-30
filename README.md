@@ -35,5 +35,5 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-medaltv = "0.1"
+medaltv = { git = "https://github.com/metruzanca/medaltv.git" }
 ```
